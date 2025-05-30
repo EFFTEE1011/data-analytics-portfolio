@@ -18,9 +18,10 @@ Hello, I'm FT! This portfolio showcases my work in data analysis using Pyton, SQ
 - Excel, PowerBI/ Tableau
 - Jupyter Notebooks, Git/GitHub
 
-  ## Education
-  1. **MBA**
-  2. **Bachelors of Engineering**
+ ## Education
+ 
+  - **MBA**
+  - **Bachelors of Engineering**
 
 
 
